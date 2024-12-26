@@ -4,7 +4,7 @@ Language SDK for FusionExport which enables exporting of charts & dashboards thr
 
 ## Prerequisites
 
-.NET Framework version >= 4.0
+.NET >= 8.0 (FusionExport.net8)
 
 ## Installation
 
